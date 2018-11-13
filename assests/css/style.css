@@ -1,0 +1,58 @@
+h2 {
+    background-color: darkorange;
+    padding: 20px;
+    margin: 5px 5px;
+}
+
+
+body {
+    background: url(https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&h=350);
+    
+    background-size: cover;
+    
+}
+
+.instructions {
+    background-color: blanchedalmond;
+    margin: 5px 5px;
+}
+
+#random-num {
+    background-color: aquamarine;
+    height: 160px;
+    width: 100%;
+    
+}
+
+.wins-losses {
+    background-color: aquamarine;
+    height: 90px;
+    width: 100%;
+    
+}
+
+img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    
+}
+
+img:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+#your-score {
+    background-color: aquamarine;
+    height: 30px;
+    width: 100%;
+}
+
+#your-score-num {
+    background-color: aquamarine;
+    height: 160px;
+    width: 100%;
+}
+
