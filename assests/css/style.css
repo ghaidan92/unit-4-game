@@ -1,7 +1,7 @@
 h2 {
     background-color: darkorange;
-    padding: 20px;
-    margin: 5px 5px;
+    /* padding: 10px; */
+    /* margin: 5px 5px; */
 }
 
 
@@ -13,9 +13,15 @@ body {
 }
 
 .instructions {
-    background-color: blanchedalmond;
-    margin: 5px 5px;
+    /* background-color: blanchedalmond; */
+    margin-bottom: 5px;
 }
+
+/* @media screen and (max-width: 768px) {
+    body {
+        background: darkcyan;
+    }
+} */
 
 #random-num {
     background-color: aquamarine;
