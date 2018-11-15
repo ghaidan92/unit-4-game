@@ -13,6 +13,7 @@ var wins = 0;
 var losses = 0;
 var compNumber = Math.floor(Math.random() * 101) + 19;
 var crystalValue = 0;
+
 for(var i = 1; i < 5; i++) {
     var crystalGuessValue = Math.floor((Math.random() * 12) + 1);
     $("#crystal-btn-" + i).attr("value", crystalGuessValue);
